@@ -214,7 +214,7 @@ All data is stored and managed dynamically within a **MySQL database**.
 🤝 Let’s Connect  
 Are you a recruiter, data enthusiast, or fellow learner? I’d love your feedback and to connect!
 
-🔗 [LinkedIn](www.linkedin.com/in/mohd-farhan-khan-b94908319)  
+🔗 LinkedIn: https://www.linkedin.com/in/mohd-farhan-khan-b94908319  
 💼 Portfolio: *Coming soon*  
 📬 mohdfarhank19@gmail.com
 
