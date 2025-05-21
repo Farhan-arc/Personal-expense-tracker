@@ -104,7 +104,7 @@ All data is stored and managed dynamically within a **MySQL database**.
 ---
 
 
----
+
 
 🤝 Let’s Connect  
 Are you a recruiter, data enthusiast, or fellow learner? I’d love your feedback and to connect!
@@ -114,11 +114,4 @@ Are you a recruiter, data enthusiast, or fellow learner? I’d love your feedbac
 📬 mohdfarhank19@gmail.com
 
 ---
-
-⭐ If you like this project, don’t forget to **star** it on GitHub!  )  
-💼 Portfolio: *Coming soon*  
-📬 mohdfarhank19@gmail.com
-
----
-
 ⭐ If you like this project, don’t forget to **star** it on GitHub!  
